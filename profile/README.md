@@ -3,7 +3,7 @@ Welcome to the GitHub organization for the [**Centre for Longitudinal Studies (C
 
 ## About
 
-This contains code repositories for the Centre for Longitudinal Studies, supporting research across the UK's major longitudinal cohort studies. Our repositories contain analysis code, data harmonisation tools, and research outputs that advance longitudinal research.
+This contains code repositories for the [**Centre for Longitudinal Studies (CLS)**](https://cls.ucl.ac.uk/), supporting research across the UK's major longitudinal cohort studies. Our repositories contain analysis code, data harmonisation tools, and research outputs that advance longitudinal research.
 
 ## 📂 Repository Content
 

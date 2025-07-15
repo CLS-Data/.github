@@ -27,14 +27,9 @@ Please note that repositories in this organization contain **work in progress** 
 ## 💬 Feedback & Contributions
 
 We welcome user feedback and contributions! You can:
-- **Contact the authors** directly (see individual repository contacts)
+- **Contact the authors** directly (see individual repository contacts or email clsdata@ucl.ac.uk)
 - **Open an issue** on the relevant GitHub repository
 - **Submit pull requests** for improvements or bug fixes
 
-## 🏛️ About CLS
-
-The Centre for Longitudinal Studies conducts world-leading research using longitudinal data to understand how lives unfold over time. We manage several major UK cohort studies and provide data and research services to the academic community.
-
 ---
 
-*For more information about CLS research and data access, visit [cls.ucl.ac.uk](https://cls.ucl.ac.uk/)*

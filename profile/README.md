@@ -5,7 +5,7 @@ Welcome to the GitHub organization for the [**Centre for Longitudinal Studies (C
 
 This contains code repositories for the Centre for Longitudinal Studies, supporting research across the UK's major longitudinal cohort studies. Our repositories contain analysis code, data harmonisation tools, and research outputs that advance longitudinal research.
 
-## 📂 Repository Categories
+## 📂 Repository Content
 
 ### 🔗 Harmonisation Projects
 Cross-cohort data harmonisation and comparative analysis tools, for example:

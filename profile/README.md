@@ -11,6 +11,7 @@ This contains code repositories for the [**Centre for Longitudinal Studies (CLS)
 Cross-cohort data harmonisation and comparative analysis tools, for example:
 - [**Fertility Histories in Four UK Cohort Studies**](https://github.com/CLS-Data/Fertility-histories-in-four-UK-cohort-studies) - Harmonised fertility data across major UK cohorts
 - [**Smoking in the Cohorts**](https://github.com/CLS-Data/smoking-in-the-cohorts) - Standardised smoking behaviour measures across studies
+- [**Harmonised Asthma across Cohorts**](https://github.com/CLS-Data/Harmonised-asthma-across-cohorts) - Harmonised asthma variables across four UK cohort studies
 
 ### 🧬 Genomic Projects
 Genetic analysis tools and polygenic scoring methods:

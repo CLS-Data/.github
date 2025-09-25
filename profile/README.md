@@ -15,7 +15,7 @@ Cross-cohort data harmonisation and comparative analysis tools, for example:
 
 ### 🧬 Genomic Projects
 Genetic analysis tools and polygenic scoring methods:
-- **CLS Polygenic Index Repository** - Tools and scripts for calculating polygenic scores in longitudinal studies (forthcoming Q3-4 2025)
+- [**CLS Polygenic Index Repository**](https://github.com/CLS-Data/CLS_PGI_repository) - Tools and scripts for calculating polygenic scores in longitudinal studies
 
 ### 💻 Data Management Code
 Tools and resources for longitudinal data management:

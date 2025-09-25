@@ -23,7 +23,7 @@ Tools and resources for longitudinal data management:
 
 ## ⚠️ Work in Progress
 
-Please note that repositories in this organization contain **work in progress** code. While we strive for quality and documentation, some projects may be in active development stages.
+Please note that repositories in this organization contain **work in progress** code. While we strive for quality and documentation, some projects may be in active development stages. Note also that the languages used differ by repository (e.g., Stata, R). 
 
 ## 💬 Feedback & Contributions
 
